@@ -1,12 +1,12 @@
 {
-  "export_job_id": "40275571-bc34-4c59-a178-fdf746875714",
+  "export_job_id": "5012ce4b-8233-44ea-97f1-ff5ab57dd7b8",
   "id_short": 272682,
-  "published_at": "2026-04-22T19:28:54Z",
+  "published_at": "2026-04-30T07:12:34Z",
   "repo_name": "tech-ready-restaurants-in-the-houston-pasadena-the-woodlands-metro-area-tx-us-sample-272682",
   "sample_asset_name": "beamstation_272682_restaurants-us-houstonpasadenathewoodlandstx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/272682/beamstation_272682_restaurants-us-houstonpasadenathewoodlandstx_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "7c19a00b741cb451888cecee0f1147dc85f72c2f2f3bc47e0d0676bfe12cd7bd",
-  "sample_size_bytes": 20075,
-  "total_records": 16
+  "sample_records": 23,
+  "sample_sha256": "20859d1a9c30c366a86a35b228f77aab82fa00257fa0ec09baf275bd758c0707",
+  "sample_size_bytes": 101651,
+  "total_records": 230
 }
